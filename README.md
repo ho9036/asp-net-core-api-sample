@@ -1,1 +1,1 @@
-# asp-net-core-api-sample
+# aspire-sample
